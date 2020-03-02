@@ -69,3 +69,15 @@ a.sort-by:after {
 	border-top-color: #666;
 	margin-top: 1px;
 }
+.header_col1 {
+  background-color: #f7f7f7;
+}
+.header_col21 {
+  background-color: #efefef
+  border-bottom: none;
+}
+
+.header_col22 {
+  background-color: #efefef;
+  border: none;
+}
